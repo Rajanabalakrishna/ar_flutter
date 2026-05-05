@@ -4,6 +4,9 @@
     <!-- Camera permission for AR -->
     <uses-permission android:name="android.permission.CAMERA" />
 
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- AR hardware requirements -->
     <uses-feature android:name="android.hardware.camera.ar" android:required="true"/>
     <uses-feature android:name="android.hardware.camera" android:required="true"/>
